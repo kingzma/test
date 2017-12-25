@@ -6,9 +6,3 @@ this line add in testBrach
 this is ini master branch
 
 this is add in testMergeLogBranch
-
-
-
-
-
-test checkout commit ;
